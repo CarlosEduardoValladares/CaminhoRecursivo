@@ -93,6 +93,7 @@ int main()
     
     createPowerMatrix(&myPowerMatrix, base, power);
     printMatrix(myPowerMatrix, base, power);
+    printf("\n");
     recursivePrint(myPowerMatrix, base, power);
     freePowerMatrix(myPowerMatrix, base, power);
     return 0;
