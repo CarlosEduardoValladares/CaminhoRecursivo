@@ -14,7 +14,7 @@ Exemplos:
 
  1)
 
-   Base: 2
+   Base: 2 <br>
    Power: 2
 
    000 001 002 003 <br>
@@ -26,7 +26,7 @@ Exemplos:
    
  2)
  
-  Base: 2
+  Base: 2 <br>
   Power 3
   
   000 001 002 003 004 005 006 007 <br>
@@ -42,7 +42,7 @@ Exemplos:
  
  3)
  
-  Base: 3
+  Base: 3 <br>
   Power: 2
   
   000 001 002 003 004 005 006 007 008 <br>
